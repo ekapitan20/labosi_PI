@@ -1,7 +1,7 @@
 # labosi_PI
 
-##krecemo
+## krecemo
 
-###polako
+### polako
 
 eto
